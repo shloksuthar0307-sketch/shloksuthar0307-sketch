@@ -74,31 +74,13 @@
 | 🍽️ [Restaurant Website](https://github.com/shloksuthar0307-sketch/restaurant) | Restaurant site built with HTML | HTML |
 | 💼 [Portfolio Website](https://github.com/shloksuthar0307-sketch/potfolio-1) | Personal responsive portfolio | JavaScript |
 
----
 
-### 📊 GitHub Stats
 
-<!-- Note: these use the public github-readme-stats / streak-stats instances, which can
-     occasionally show rate-limit errors since they're shared by many users. If that
-     happens, consider self-hosting your own free Vercel instance for reliability. -->
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shloksuthar0307-sketch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloksuthar0307-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shloksuthar0307-sketch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://instagram.com/hy_shh_7">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
+
   <a href="https://linkedin.com/in/shlok-suthar2507">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -107,6 +89,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shloksuthar0307-sketch&icon=4&color=4" alt="Profile views" />
-</p>
+
