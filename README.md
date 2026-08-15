@@ -68,6 +68,20 @@
   </a>
 </p>
 
+
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=shloksuthar0307-sketch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shloksuthar0307-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shloksuthar0307-sketch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 | Project | Description | Stack |
 |---|---|---|
 | 🚗 [Car Rental Website](https://github.com/shloksuthar0307-sketch/car-rental) | Responsive booking website | JavaScript |
