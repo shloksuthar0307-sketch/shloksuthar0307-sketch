@@ -87,16 +87,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shloksuthar0307-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloksuthar0307-sketch&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=shloksuthar0307-sketch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shloksuthar0307-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shloksuthar0307-sketch&theme=tokyonight&hide_border=true" />
-</p>
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=shloksuthar0307-sketch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p> 
+
+---
 
 > **Note:** if a stats card doesn't load, it usually means the username or `?theme=` parameter is wrong, or the service is temporarily down — refresh, or regenerate the link at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
