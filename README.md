@@ -78,9 +78,9 @@
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shloksuthar0307-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://streak-stats.demolab.com?user=shloksuthar0307-sketch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p> -->
+</p> 
 
 ---
 | Project | Description | Stack |
