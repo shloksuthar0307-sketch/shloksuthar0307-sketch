@@ -60,33 +60,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
 ---
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/shloksuthar0307-sketch/car-rental">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=shloksuthar0307-sketch&repo=car-rental&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/shloksuthar0307-sketch/gaming-web">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=shloksuthar0307-sketch&repo=gaming-web&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/shloksuthar0307-sketch/restaurant">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=shloksuthar0307-sketch&repo=restaurant&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/shloksuthar0307-sketch/potfolio-1">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=shloksuthar0307-sketch&repo=potfolio-1&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-
-
 ### 📈 GitHub Stats
 
 <p align="center">
