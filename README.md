@@ -18,7 +18,7 @@
 - 🛠️ Currently deepening my skills in advanced JavaScript, backend architecture, and API development
 - 🎯 Passionate about clean code, scalable applications, and continuous learning
 - 💡 Currently working on: **[add project name]**
-- 📫 Reach me at [shloksuthar@gmail.com](mailto:shloksuthar@gmail.com)
+- 📫 Reach me at [shloksuthar25@gmail.com](mailto:shloksuthar25@gmail.com)
 
 ---
 
