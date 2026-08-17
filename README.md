@@ -131,7 +131,7 @@
 | Project | Description | Stack | Live Demo |
 |---|---|---|---|
 | [Blog](#) | Django Blog app | Python | [Demo](https://blog-django-production.up.railway.app) |
-| [Gaming / E-sports Landing Page](#) | Modern UI design project | JavaScript | [Demo](https://gaming-web-bice.vercel.app) |
+| [libarary](#) | React-js  libaray manegment | JavaScript | [Demo](https://book-inventery.vercel.app/) |
 | [Restaurant Website](#) | Responsive site built with HTML | HTML | [Demo](https://restaurant-sable-theta.vercel.app) |
 | [Portfolio Website](#) | Personal responsive portfolio | JavaScript | [Demo](https://shloksuthar.vercel.app/) |
 
