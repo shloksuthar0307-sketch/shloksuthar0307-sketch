@@ -135,17 +135,19 @@
 
 ### 📂 All Repositories
 
-<!--START_SECTION:repos-->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shloksuthar0307-sketch&theme=tokyo-night&hide_border=true" alt="repo activity graph"/>
-</p>
-
 Browse everything I've built here → **[github.com/shloksuthar0307-sketch?tab=repositories](https://github.com/shloksuthar0307-sketch?tab=repositories)**
 <!--END_SECTION:repos-->
 
-> 💡 **Want a real auto-updating table of every repo (name, description, stars, language) right here in this file?**
-> Add the free **[lowlighter/metrics](https://github.com/lowlighter/metrics)** GitHub Action (or **[github-readme-repo-list](https://github.com/marketplace/actions/repo-list-generator-action)**) to this repo — it edits this README automatically on a schedule using the `<!--START_SECTION:repos--> ... <!--END_SECTION:repos-->` markers already placed above. I can write that GitHub Actions workflow file for you if you want — just say so.
 
 ---
 
+
 <p align="center"><i>⭐️ From <a href="https://github.com/shloksuthar0307-sketch">shloksuthar0307-sketch</a></i></p>
+
+<h3>Sayri ⭐️</h3>
+<p>
+  Code likhta hoon, khwaab sajata hoon,
+  Bugs se ladkar, har din kuch naya banata hoon.
+  Rukawat aaye toh rukta nahi,
+  Developer hoon — haar maanta nahi. 💻🔥
+</p>
