@@ -146,8 +146,8 @@ Browse everything I've built here → **[github.com/shloksuthar0307-sketch?tab=r
 
 <h3>Sayri ⭐️</h3>
 <p>
-  Code likhta hoon, khwaab sajata hoon,
-  Bugs se ladkar, har din kuch naya banata hoon.
-  Rukawat aaye toh rukta nahi,
+  Code likhta hoon, khwaab sajata hoon,<br/>
+  Bugs se ladkar, har din kuch naya banata hoon.<br/>
+  Rukawat aaye toh rukta nahi,<br/>
   Developer hoon — haar maanta nahi. 💻🔥
 </p>
