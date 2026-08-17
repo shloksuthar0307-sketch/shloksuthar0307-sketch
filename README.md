@@ -2,10 +2,10 @@
 <h3 align="center">Full Stack Developer | Building responsive frontends & powerful backend systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://linkedin.com/in/shlok-suthar2507">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:shloksuthar@gmail.com">
+  <a href="mailto:shloksuthar25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -14,10 +14,10 @@
 
 ### 🚀 About Me
 
-- 🌐 I build responsive frontends and powerful backend systems
-- 🛠️ Currently deepening my skills in advanced JavaScript, backend architecture, and API development
+- 🌐 I build full-stack web apps — **React** on the frontend, **Python/Django + DRF** on the backend
+- 🛠️ Currently deepening my skills in REST API design, database modeling, and JWT-based auth
 - 🎯 Passionate about clean code, scalable applications, and continuous learning
-- 💡 Currently working on: **[add project name]**
+- 💡 Currently working on: **[student manegment system]**
 - 📫 Reach me at [shloksuthar25@gmail.com](mailto:shloksuthar25@gmail.com)
 
 ---
@@ -60,28 +60,33 @@
 </details>
 
 <details>
-<summary><b>Backend, Auth & Databases</b></summary>
+<summary><b>Backend</b></summary>
 <br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+
 </details>
 
-
-
 <details>
-  <summary>Auth</summary>
+<summary><b>Auth</b></summary>
 <br/>
-  
+
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
 </details>
 
-
 <details>
-<summary>Database</summary>
-  <br/>  
-  
+<summary><b>Database</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
 </details>
 
 <details>
@@ -126,10 +131,10 @@
 
 | Project | Description | Stack | Live Demo |
 |---|---|---|---|
-| [Car Rental Website](#) | Responsive booking website | JavaScript | [Demo](#) |
-| [Gaming / E-sports Landing Page](#) | Modern UI design project | JavaScript | [Demo](#) |
-| [Restaurant Website](#) | Responsive site built with HTML | HTML | [Demo](#) |
-| [Portfolio Website](#) | Personal responsive portfolio | JavaScript | [Demo](#) |
+| [Blog](#) | Django Blog app | Python | [Demo](https://blog-django-production.up.railway.app) |
+| [Gaming / E-sports Landing Page](#) | Modern UI design project | JavaScript | [Demo](https://gaming-web-bice.vercel.app) |
+| [Restaurant Website](#) | Responsive site built with HTML | HTML | [Demo](https://restaurant-sable-theta.vercel.app) |
+| [Portfolio Website](#) | Personal responsive portfolio | JavaScript | [Demo](https://shloksuthar.vercel.app/) |
 
 ---
 
