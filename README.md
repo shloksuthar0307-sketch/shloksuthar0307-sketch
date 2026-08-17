@@ -96,7 +96,7 @@
 
 </details>
 <details>
-  <summary>deployment platforms </summary>
+  <summary>Deployment Platforms </summary>
   <br/>
   
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logoSize=auto&logo=pythonanywhere&logoColor=white)
