@@ -1,71 +1,83 @@
-<div align="center">
+<h1 align="center">Hi, I'm Shlok 👋</h1>
+<h3 align="center">Full Stack Developer · Building the frontend, the backend, and everything between</h3>
 
-<h1>Shlok Suthar</h1>
-<h3>Full Stack Developer</h3>
-
-<p>
-  I build complete web applications — responsive, animated frontends paired with
-  Python-powered backends and real databases. Focused on clean code,
-  practical architecture, and shipping things that work end to end.
-</p>
-
-<p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shlok-suthar2507"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shlksuthar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shlok-suthar2507"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/hy_shh_7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-</div>
+---
+
+## 🧑‍💻 About Me
+
+I'm a full-stack developer who builds complete web applications end to end: responsive **React** frontends, **REST APIs** with **Python + Flask**, and **MongoDB / MySQL** databases behind them. I care about clean code, scalable structure, and shipping things that actually work.
+
+- 💼 Open to **full-stack developer** roles, internships, and freelance projects
+- ⚙️ I build the UI, the API, the database, and the deployment
+- 🎨 I also design in **Figma** and **Illustrator**, so I think about UI and code together
+- 📫 Reach me at **shlksuthar@gmail.com**
 
 ---
 
-## 🧩 About Me
-
-I'm a full stack developer who enjoys owning a project from UI to database. On the
-frontend I build responsive layouts and bring them to life with motion and modern
-frameworks like React; on the backend I work with Django to build the logic, data
-models, and features that make an app actually functional.
-
-I'm actively expanding my skills and looking for an internship/role where I can keep
-building complete, production-style applications.
-
----
-
-## 🛠️ Skills
-
-<table>
-<tr>
-<td valign="top" width="33%">
+## 🛠️ Tech Stack
 
 **Frontend**
-- HTML5 / CSS3
-- JavaScript
-- React
-- Tailwind CSS
-- GSAP (animation)
 
-</td>
-<td valign="top" width="33%">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend**
-- Python
-- Django
-- Flask
+**Backend & Database**
 
-</td>
-<td valign="top" width="33%">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Database & Tools**
-- MySQL
-- Git & GitHub
-- VS Code
-- Postman
-- Figma
+**Languages & Fundamentals**
 
-</td>
-</tr>
-</table>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🚗 Car Rental](https://github.com/shloksuthar0307-sketch/car-rental) | Full-stack car booking app: browse cars, book online, data stored in a database via a REST API | React · JavaScript · Flask · MongoDB/MySQL |
+| [🍽️ Restaurant](https://github.com/shloksuthar0307-sketch/restaurant) | Restaurant website with menu and an inviting UI | HTML · CSS |
+| [🎮 Gaming Web](https://github.com/shloksuthar0307-sketch/gaming-web) | Modern e-sports landing page with a bold, game-style design | HTML · CSS · JavaScript |
+| [👤 Portfolio](https://github.com/shloksuthar0307-sketch/potfolio-1) | Personal responsive portfolio website | HTML · CSS · JavaScript |
+
+---
+
+## ⚡ Full-Stack Skills
+
+- 🖥️ **Frontend:** responsive UIs with HTML, CSS, JavaScript, Bootstrap and React
+- 🔌 **Backend:** REST API design and development with Python and Django
+- 🗄️ **Database:** schema design and queries with MongoDB and MySQL
+- 🧪 **Workflow:** API testing with Postman, version control with Git and GitHub
+- ☁️ **Deployment:** shipping apps live on Render / Vercel
+
+## 🚀 Next Up
+
+- Node.js / Express, TypeScript, Docker, and CI/CD
+
+---
+
 
 ## 📊 GitHub Stats
 
@@ -81,3 +93,4 @@ building complete, production-style applications.
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=shloksuthar0307-sketch&icon=4&color=4" />
 </p>
+	
