@@ -57,9 +57,6 @@ I'm a full-stack developer who builds complete web applications end to end: resp
 
 | Project | Description | Tech |
 |---|---|---|
-| [🚗 Car Rental](https://github.com/shloksuthar0307-sketch/car-rental) | Full-stack car booking app: browse cars, book online, data stored in a database via a REST API | React · JavaScript · Flask · MongoDB/MySQL |
-| [🍽️ Restaurant](https://github.com/shloksuthar0307-sketch/restaurant) | Restaurant website with menu and an inviting UI | HTML · CSS |
-| [🎮 Gaming Web](https://github.com/shloksuthar0307-sketch/gaming-web) | Modern e-sports landing page with a bold, game-style design | HTML · CSS · JavaScript |
 | [👤 Portfolio](https://github.com/shloksuthar0307-sketch/potfolio-1) | Personal responsive portfolio website | HTML · CSS · JavaScript |
 
 ---
