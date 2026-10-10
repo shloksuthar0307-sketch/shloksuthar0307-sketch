@@ -15,7 +15,7 @@ I'm a full-stack developer who builds complete web applications end to end: resp
 - 💼 Open to **full-stack developer** roles, internships, and freelance projects
 - ⚙️ I build the UI, the API, the database, and the deployment
 - 🎨 I also design in **Figma** and **Illustrator**, so I think about UI and code together
-- 📫 Reach me at **shlksuthar@gmail.com**
+- 📫 Reach me at **shloksuthar25@gmail.com**
 
 ---
 
